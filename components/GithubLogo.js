@@ -3,7 +3,7 @@ import { Image, TouchableOpacity, Linking } from 'react-native';
 
 const GithubLogo = () => {
   const openGithub = () => {
-    Linking.openURL('https://github.com/your_username/repo_name');
+    Linking.openURL('https://github.com/Muath4/chat-app-native');
   };
 
   return (
